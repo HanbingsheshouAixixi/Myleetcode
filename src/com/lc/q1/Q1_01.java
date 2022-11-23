@@ -1,7 +1,7 @@
 package com.lc.q1;
 
 /**
- * 中心扩散法
+ * 中心扩散法 test
  *
  */
 public class Q1_01 {
